@@ -1,5 +1,4 @@
 markdown
-
 ## Hi there 👋, I'm Nadia Beznosova
 
 ## 🌟 Open to new opportunities
