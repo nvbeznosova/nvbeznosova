@@ -29,6 +29,8 @@ Looking for a Junior position to help teams deliver reliable and high-quality pr
 ![ADB](https://img.shields.io/badge/-ADB-lightgrey?logo=android)
 ![Allure](https://img.shields.io/badge/-Allure-4B0082?logo=allure&logoColor=white)
 ![Requests](https://img.shields.io/badge/-Requests-2CA5E0?logo=python&logoColor=white)
+![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)
+![unittest.mock](https://img.shields.io/badge/mock-✓-lightgrey)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?logo=githubcopilot&logoColor=white)
 
@@ -41,3 +43,4 @@ Looking for a Junior position to help teams deliver reliable and high-quality pr
 | **[Yandex.Samokat-UI-Tests](https://github.com/nvbeznosova/Yandex-Samokat-UI-Tests)** | UI automation for a scooter rental service. `Selenium WebDriver`, `Python`, `pytest`, `Page Object Model`, `Allure Report`. |
 | **[Stellar-Burgers-UI-Tests](https://github.com/nvbeznosova/Stellar-Burgers-UI-Tests)** | UI automation for a space‑themed fast‑food web app. `Selenium WebDriver`, `Python`, `pytest`, `Page Object Model`. |
 | **[Yandex.Samokat-API-Tests](https://github.com/nvbeznosova/Yandex-Samokat-API-Tests)** | API test automation for the same scooter rental service. `Python`, `pytest`, `requests`, `Allure`. Covers courier creation, login, order placement, order list. |
+| **[Stellar-Burgers-Unit-Tests](https://github.com/nvbeznosova/Stellar-Burgers-Unit-Tests)** | Unit tests for the same burger constructor. `Python`, `pytest`, `pytest-cov`. Covers ingredient management, price calculation, database access. 100% test coverage.|
