@@ -31,6 +31,7 @@ Looking for a Junior position to help teams deliver reliable and high-quality pr
 ![Requests](https://img.shields.io/badge/-Requests-2CA5E0?logo=python&logoColor=white)
 ![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)
 ![unittest.mock](https://img.shields.io/badge/mock-✓-lightgrey)
+![API Tests](https://github.com/nvbeznosova/Stellar-Burgers-API-Tests/actions/workflows/api-tests.yml/badge.svg)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?logo=githubcopilot&logoColor=white)
 
