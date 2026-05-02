@@ -4,10 +4,10 @@
 
 I am currently actively looking for a **Junior Manual QA Engineer** position. 
 
-🇦🇲 **Location:** Yerevan, Armenia
-💼 **Target:** Junior Manual QA roles
-🌎 **Preference:** Fully remote / Office (Yerevan)
-📫 **Contact:** nvbeznosova@gmail.com
+🇦🇲 **Location:** Yerevan, Armenia  
+💼 **Target:** Junior Manual QA roles  
+🌎 **Preference:** Fully remote / Office (Yerevan)  
+📫 **Contact:** nvbeznosova@gmail.com  
 
 
 ## 👩‍💻 About me
@@ -24,6 +24,8 @@ Looking for a Junior position to help teams deliver reliable and high-quality pr
 ![Selenium](https://img.shields.io/badge/-Selenium-9cf?logo=selenium)
 ![Pytest](https://img.shields.io/badge/-Pytest-9cf?logo=pytest&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-blue?logo=jira)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-green?logo=postgresql)
 ![Charles Proxy](https://img.shields.io/badge/-Charles_Proxy-inactive?logo=charles)
@@ -42,6 +44,7 @@ Looking for a Junior position to help teams deliver reliable and high-quality pr
 
 | Project | Description |
 |:--------|:------------|
+| **[QA Manual Portfolio](https://github.com/nvbeznosova/qa-manual-portfolio)** | A structured portfolio of manual testing artifacts, demonstrating systematic QA skills: test cases, bug reports, checklists, decomposition, and test design techniques (EP, BVA). |
 | **[Yandex.Samokat-UI-Tests](https://github.com/nvbeznosova/Yandex-Samokat-UI-Tests)** | UI automation for a scooter rental service. `Selenium WebDriver`, `Python`, `pytest`, `Page Object Model`, `Allure Report`. |
 | **[Stellar-Burgers-UI-Tests](https://github.com/nvbeznosova/Stellar-Burgers-UI-Tests)** | UI automation for a space‑themed fast‑food web app. `Selenium WebDriver`, `Python`, `pytest`, `Page Object Model`. |
 | **[Yandex.Samokat-API-Tests](https://github.com/nvbeznosova/Yandex-Samokat-API-Tests)** | API test automation for the same scooter rental service. `Python`, `pytest`, `requests`, `Allure`. Covers courier creation, login, order placement, order list. |
