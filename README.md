@@ -7,7 +7,8 @@ I am currently actively looking for a **Junior Manual QA Engineer** position.
 🇦🇲 **Location:** Yerevan, Armenia  
 💼 **Target:** Junior Manual QA roles  
 🌎 **Preference:** Fully remote / Office (Yerevan)  
-📫 **Contact:** nvbeznosova@gmail.com  
+📫 **Telegram:** [nadiabeznosova](https://t.me/nadiabeznosova)
+   **Contact:** nvbeznosova@gmail.com
 
 
 ## 👩‍💻 About me
