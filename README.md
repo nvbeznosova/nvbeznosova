@@ -9,7 +9,7 @@ I am currently actively looking for a **Junior Manual QA Engineer** position.
 🌎 **Preference:** Fully remote / Office (Yerevan)  
 📫 **Telegram:** [nadiabeznosova](https://t.me/nadiabeznosova)
    **Email:** nvbeznosova@gmail.com
-   **[My LinkedIn]**(https://linkedin.com/in/nadia-beznosova)    
+   **My LinkedIn** (https://linkedin.com/in/nadia-beznosova)    
 
 ## 👩‍💻 About me
 
